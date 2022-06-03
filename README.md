@@ -17,17 +17,17 @@ xx x2cursus Progress 💪🏻
 | 12  | [CPP Module 01](../../../x2-cpp_module_01). | 🔒     |                                     
 | 22B | webserv                                     | 🔒     |                                     
 
-
-x xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x &nbsp;
-x                                 x &nbsp;
-x.............xxx......xxxxxxxx   x &nbsp;
-x...........xxx......xxx....xxx   x &nbsp;
-x.........xxx xxx.........xxx     x &nbsp;
-x.......xxx..xxx.......xxx        x &nbsp;
-x.....xxxxxxxxxxx...xxx           x &nbsp;
-x..........xxx....xxx             x &nbsp;
-x.........xxx...xxxxxxxxxxx       x &nbsp;
-x                                 x &nbsp;
-x xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x &nbsp;
- 
+<h1>
+x xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x <br>
+x                                 x <br>
+x.............xxx......xxxxxxxx   x <br>
+x...........xxx......xxx....xxx   x <br>
+x.........xxx xxx.........xxx     x <br>
+x.......xxx..xxx.......xxx        x <br>
+x.....xxxxxxxxxxx...xxx           x <br>
+x..........xxx....xxx             x <br>
+x.........xxx...xxxxxxxxxxx       x <br>
+x                                 x <br> 
+x xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x <br>
+</>
 
