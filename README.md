@@ -18,16 +18,16 @@ xx x2cursus Progress 💪🏻
 | 22B | webserv                                     | 🔒     |                                     
 
 
-x xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x 
-x                                 x
-x.............xxx......xxxxxxxx   x 
-x...........xxx......xxx....xxx   x 
-x.........xxx xxx.........xxx     x 
-x.......xxx..xxx.......xxx        x 
-x.....xxxxxxxxxxx...xxx           x 
-x..........xxx....xxx             x 
-x.........xxx...xxxxxxxxxxx       x 
-x                                 x 
-x xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x 
+x xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x &nbsp;
+x                                 x &nbsp;
+x.............xxx......xxxxxxxx   x &nbsp;
+x...........xxx......xxx....xxx   x &nbsp;
+x.........xxx xxx.........xxx     x &nbsp;
+x.......xxx..xxx.......xxx        x &nbsp;
+x.....xxxxxxxxxxx...xxx           x &nbsp;
+x..........xxx....xxx             x &nbsp;
+x.........xxx...xxxxxxxxxxx       x &nbsp;
+x                                 x &nbsp;
+x xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x &nbsp;
  
 
