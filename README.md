@@ -31,4 +31,4 @@
 | 6B  | pipex                                       | 🔒     |   | 16  | | 🔒     |  
 | 7   | [push_swap](../../../42-push_swap)          | ✅     |   | 17  | | 🔒     |  
 | 8   | [minishell](../../../../bunyod16/minishell) | 📝     |   | 18  | | 🔒     |  
-| 9   | [Philosphers](../../../42-philosophers)     | ✅     |    [netwhat](../../../42-netwhat) | ✅      |
+
