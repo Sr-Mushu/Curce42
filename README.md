@@ -11,6 +11,6 @@
 | 3   | [ft_printf](../../../42-ft_printf)          | ✅     | *         ###   ##########+       * |
 | 11  | [CPP Module 00](../../../42-cpp_module_00)  | 🔒     | *                                 * |
 | 22A | ft_irc                                      | 🔒     | * ******************************* * |
-| 4   | [get_next_line](../../../42-get_next_line)  | ✅     |  
-| 12  | [CPP Module 01](../../../42-cpp_module_01). | 🔒     |  
-| 22B | webserv                                     | 🔒     |
+| 4   | [get_next_line](../../../42-get_next_line)  | ✅     |                                     |                                   
+| 12  | [CPP Module 01](../../../42-cpp_module_01). | 🔒     |                                     |
+| 22B | webserv                                     | 🔒     |                                     |
