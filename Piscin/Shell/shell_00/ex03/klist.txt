@@ -1,0 +1,6 @@
+Credentials cache: API:8445F776-D4DC-428A-ACF3-8931FB188203
+        Principal: dagabrie@42LISBOA.COM
+
+  Issued                Expires               Principal
+Aug  3 14:33:52 2021  Aug  4 00:33:52 2021  krbtgt/42LISBOA.COM@42LISBOA.COM
+Aug  3 14:33:54 2021  Aug  4 00:33:52 2021  HTTP/student-storage.42lisboa.com@42LISBOA.COM
