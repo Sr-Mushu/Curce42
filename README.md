@@ -19,7 +19,7 @@
 
 
 -->
-| No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
+| No  | Project  **                                   | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
 | :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
 | 1   | [Libft](../../../42-libft)                  | ✅     |   | 10A | cub3d                                      | 🔒     |   | 20  | NetPractice                    | 🔒      |
 | 2   | [Born2beroot](../../../42-born2beroot)      | ✅     |   | 10B | miniRT                                     | 🔒     |   | 21  | ft_containers                  | 🔒      |
