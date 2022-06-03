@@ -18,16 +18,16 @@ xx x2cursus Progress 💪🏻
 | 22B | webserv                                     | 🔒     |                                     
 
 <h1>
-x xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x <br>
-x                                 x <br>
-x.............xxx......xxxxxxxx   x <br>
-x...........xxx......xxx....xxx   x <br>
-x.........xxx xxx.........xxx     x <br>
-x.......xxx..xxx.......xxx        x <br>
-x.....xxxxxxxxxxx...xxx           x <br>
-x..........xxx....xxx             x <br>
-x.........xxx...xxxxxxxxxxx       x <br>
-x                                 x <br> 
-x xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x <br>
+/* ************************************************************************** */ <br>
+/*                                                                            */ <br>
+/*                                                        :::      ::::::::   */ <br>
+/*   server.c                                           :+:      :+:    :+:   */ <br>
+/*                                                    +:+ +:+         +:+     */ <br>
+/*   By: jbatista <marvin@42.fr>                    +#+  +:+       +#+        */ <br>
+/*                                                +#+#+#+#+#+   +#+           */ <br>
+/*   Created: 2022/05/30 17:30:52 by jbatista          #+#    #+#             */ <br>
+/*   Updated: 2022/06/01 14:23:58 by jbatista         ###   ########.fr       */ <br>
+/*                                                                            */ <br>
+/* ************************************************************************** */ <br>
 </>
 
