@@ -19,7 +19,7 @@
 
 
 -->
-| No  | Project  **                                   | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
+| No  | Project                                  | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
 | :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
 | 1   | [Libft](../../../42-libft)                  | ✅     |   | 10A | cub3d                                      | 🔒     |   | 20  | NetPractice                    | 🔒      |
 | 2   | [Born2beroot](../../../42-born2beroot)      | ✅     |   | 10B | miniRT                                     | 🔒     |   | 21  | ft_containers                  | 🔒      |
@@ -31,4 +31,4 @@
 | 6B  | pipex                                       | 🔒     |   | 16  | CPP Module 05                              | 🔒     |   |     |                                |         |
 | 7   | [push_swap](../../../42-push_swap)          | ✅     |   | 17  | CPP Module 06                              | 🔒     |   |     |                                |         |
 | 8   | [minishell](../../../../bunyod16/minishell) | 📝     |   | 18  | CPP Module 07                              | 🔒     |   |     |                                |         |
-| 9   | [Philosphers](../../../42-philosophers)     | ✅     |   | 19  | CPP Module 08                              | 🔒     |   | 25  | [netwhat](../../../42-netwhat) | ✅      |
+| 9   | [Philosphers](../../../42-philosophers)     | ✅     |    [netwhat](../../../42-netwhat) | ✅      |
