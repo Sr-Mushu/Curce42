@@ -18,6 +18,6 @@
 | No  | Project                  | Status |  
 | :-: | :----------------------- | :----: | 
 | 1   | [Libft]                  | ✅     |  
-| 20  | [Get_next_Line]          | ✅     |  
-| 2   | [Born2beroot]            | 📝     |    
-| 3   | [ft_printf]              | ✅     |                                      
+| 2   | [Get_next_Line]          | ✅     |      
+| 4   | [ft_printf]              | ✅     |
+| 3   | [Born2beroot]            | 📝     |   
