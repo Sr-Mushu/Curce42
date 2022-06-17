@@ -21,3 +21,4 @@
 | 2   | [Get_next_Line]          | ✅     |      
 | 3   | [ft_printf]              | ✅     |
 | 4   | [Born2beroot]            | 📝     | 
+| 5   | [Minitolk]               | 📝     |
