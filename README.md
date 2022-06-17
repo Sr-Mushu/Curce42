@@ -21,4 +21,6 @@
 | 2   | [Get_next_Line]          | ✅     |      
 | 3   | [ft_printf]              | ✅     |
 | 4   | [Born2beroot]            | 📝     | 
-| 5   | [Minitolk]               | 📝     |
+| 5   | [Minitalk]               | 📝     |
+| 5   | [Pipex]                  | 📝     |
+| 5   | [Push_swap]              | 📝     |
