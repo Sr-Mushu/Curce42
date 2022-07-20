@@ -6,7 +6,7 @@
 /*   By: dagabrie <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/02/02 15:40:15 by dagabrie          #+#    #+#             */
-/*   Updated: 2022/03/15 17:16:40 by dagabrie         ###   ########.fr       */
+/*   Updated: 2022/03/29 15:24:21 by dagabrie         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,46 +20,47 @@ int	ft_printf(const char *string_01, ...)
 {
 	int			count;
 	int			count_return;
-	va_list		arguments_list;
+	va_list		list;
 
 	count = 0;
 	count_return = 0;
-	va_start(arguments_list, string_01);
-	while (string_01 && string_01[count])
+	va_start(list, string_01);
+	while (string_01[count] != '\0')
 	{
 		if (string_01[count] == '%')
 		{
 			count++;
-			count_return =+ is_parameter_value(string_01[count], arguments_list);
-
+			count_return += is_parameter_value(string_01[count], list);
 		}
 		else
-			count_return =+ write( 1, &string_01[count], 1);
-
+			count_return += write(1, &string_01[count], 1);
+		count++;
 	}
-	va_end(arguments_list);
+	va_end(list);
 	return (count_return);
 }
 
 int	is_parameter_value(const char string_01, va_list arguments)
 {
+	int		count;
+
 	if (string_01 == 'c')
-		return (ft_print_c(va_arg(arguments, int)));
+		count = ft_print_c(va_arg(arguments, int));
 	if (string_01 == 'i')
-		return (ft_print_i(va_arg(arguments, int)));
+		count = ft_print_i_d(va_arg(arguments, int));
 	if (string_01 == 'd')
-		return (ft_print_d(va_arg(arguments, unsigned long int)));
+		count = ft_print_i_d(va_arg(arguments, unsigned long int));
 	if (string_01 == 's')
-		return (ft_print_s(va_arg(arguments, char *)));
+		count = ft_print_s(va_arg(arguments, char *));
 	if (string_01 == 'u')
-		return (ft_print_u(va_arg(arguments, unsigned int)));
+		count = ft_print_u(va_arg(arguments, unsigned int));
 	if (string_01 == 'x')
-		return (ft_print_x(va_arg(arguments, unsigned int)));
+		count = ft_print_x(va_arg(arguments, unsigned int));
 	if (string_01 == 'X')
-		return (ft_print_X(va_arg(arguments, unsigned int)));
-	if (string_01 == '%')
-		return (write(1,&arguments,1));
+		count = ft_print_xx(va_arg(arguments, unsigned int));
 	if (string_01 == 'p')
-		return (ft_print_p(va_arg(arguments, void *)));
-	return (0);
+		count = ft_print_p(va_arg(arguments, unsigned long));
+	if (string_01 == '%')
+		count = write(1, "%%", 1);
+	return (count);
 }

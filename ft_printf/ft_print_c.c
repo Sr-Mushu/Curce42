@@ -6,14 +6,14 @@
 /*   By: dagabrie <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/02/16 13:38:41 by dagabrie          #+#    #+#             */
-/*   Updated: 2022/03/11 15:41:43 by dagabrie         ###   ########.fr       */
+/*   Updated: 2022/03/29 13:56:26 by dagabrie         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "ft_printf.h"
+#include "./libft/libft.h"
 
 int	ft_print_c(int argument)
 {
-	ft_putchar_fd(argument, 1);
-	return (1);
+	return (write(1, &argument, 1));
 }
